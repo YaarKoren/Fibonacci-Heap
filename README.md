@@ -7,8 +7,8 @@ Grade: 100 :dancer:
 <br />
 
 <h2>Description</h2>
-Implementation of Fibonacci Heap, . <br />
-The heap elemnts are all integers and different from each other.  <br />
+Implementation of Fibonacci Heap. <br />
+The heap elements are all integers and different from each other.  <br />
 There is a detailed documentation in Hebrew, explaining the implementation, the different methods and their runtime complexity. The documentation also contains experiments performed on the data structure and analysis of running times.
 <br />
 
