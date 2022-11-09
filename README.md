@@ -1,6 +1,6 @@
 <h1>Fibonacci Heap</h1>
 
-projcet in "Data Structures" course, Tel Aviv University, 2021
+"Data Structures" course project, Tel Aviv University, 2021
 <br />
 with [ItayHirschel](https://github.com/ItayHirschel) <br />
 Grade: 100 :dancer:
